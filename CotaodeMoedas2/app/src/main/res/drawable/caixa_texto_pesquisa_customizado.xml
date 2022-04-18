@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/white" /> <!--- Configurar formato do botão, importante
+             não esquecer de definir o HeightMin no layout-->
+            <corners android:radius="20dp" />
+            <padding android:left="8dp" android:right="8dp" />
+
+        </shape>
+
+    </item>
+
+
+
+</selector>
